@@ -25,9 +25,9 @@ import {
 const mockRequests = [
   {
     id: 1,
-    name: "TechInnovate",
-    founder: "Alice Johnson",
-    cofounder: "David Lee",
+    name: "TechInnovators",
+    founder: "Jane Doe",
+    cofounder: "John Smith",
     status: "Pending",
     description:
       "TechInnovate is revolutionizing the way we interact with smart home devices using advanced AI algorithms.",
